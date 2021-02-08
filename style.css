@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.header-box {
+    background-image: url(logo.png);
+    background-repeat: no-repeat;
+    height: 100px;
+}
+}
+.conteiner {
+    margin: 0 auto;
+    max-width: 1180px;
+}
+.ulishka {
+   
+    background-image: url(layer_14.jpg);
+    height: 951px;
+    background-repeat: no-repeat;
+}
+.ulishka img {
+    margin-right: 30px;
+}
+
+
+
+
+
+     
+}
